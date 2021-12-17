@@ -1,0 +1,23 @@
+
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    color: blue;
+    text-align: center;
+}
+
+#map {
+    width: 1400px;
+    height: 420px;
+}
+
+ p {
+  color: purple;
+}
